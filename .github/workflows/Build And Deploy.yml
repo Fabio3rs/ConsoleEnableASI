@@ -39,6 +39,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          file: "build/libConsoleEnableMod.asi"
+          file: "build/libConsoleEnablerMod.asi"
           tags: true
           draft: false
