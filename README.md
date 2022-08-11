@@ -1,4 +1,4 @@
-# ConsoleEnableASI
+# ConsoleEnablerASI
 
 Enables the stdin, stdout, stderr in the terminal emulator/console from use with an ASI Loader
 
