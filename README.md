@@ -2,6 +2,8 @@
 
 Enables the stdin, stdout, stderr in the terminal emulator/console from use with an ASI Loader
 
+Original topic in GTA Forums https://gtaforums.com/topic/567353-gta-console-show/
+
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
